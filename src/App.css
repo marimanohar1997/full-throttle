@@ -1,3 +1,22 @@
+.title-print{
+  text-align: center;
+    font-size: 30px;
+    font-family: -webkit-pictograph;
+    color: white;
+}
+
+.p-title{
+  margin: 15px 200px 0px 0px;
+  font-size: medium;
+}
+
+.p-title-right{
+  margin:-21px 0px 0px 220px;
+  font-size: medium;
+}
+
+
+
 .App {
   text-align: center;
 }
